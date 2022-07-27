@@ -1,2 +1,5 @@
 language = "python3"
 run = "python3 budgetTest.py"
+
+[nix]
+channel = "stable-22_05"
